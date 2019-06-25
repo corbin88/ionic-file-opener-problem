@@ -1,5 +1,7 @@
 {
   "name": "fileOpenerTest",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
